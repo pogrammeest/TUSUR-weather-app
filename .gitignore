@@ -43,7 +43,6 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 # JDT-specific (Eclipse Java Development Tools)
-.classpath
 
 ### VS Code ###
 .vscode/
