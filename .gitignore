@@ -49,3 +49,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Smart Tomcat
+.smarttomcat/
